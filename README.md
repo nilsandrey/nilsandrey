@@ -12,7 +12,7 @@
 <a href="https://stackoverflow.com/users/nilsandrey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="nilsandrey" height="30" width="40" /></a>
 <a href="https://instagram.com/nilsandrey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nilsandrey" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/nilsandrey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nilsandrey" height="30" width="40" /></a>
-<a href="/https://typefully.com/nilsandrey/rss.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://typefully.com/nilsandrey/rss.xml" height="30" width="40" /></a>
+<a href="https://typefully.com/nilsandrey/rss.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://typefully.com/nilsandrey/rss.xml" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
