@@ -4,7 +4,7 @@ I want to learn, explore, and connect with peers to know and share about past, c
 
 <a href="https://twitter.com/nilsandrey" target="blank"><img src="https://img.shields.io/twitter/follow/nilsandrey?logo=twitter&style=for-the-badge" alt="nilsandrey" /></a> 
 
-## Connect with me
+## Connect
 
 <a href="https://codepen.io/nilsandrey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="nilsandrey" height="30" width="40" /></a>
 <a href="https://dev.to/nilsandrey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="nilsandrey" height="30" width="40" /></a>
